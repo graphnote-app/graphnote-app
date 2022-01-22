@@ -1,5 +1,5 @@
-- Welcome to the @graphnote-io repo
-- Interested in productivity & task management ...
+- 😀: Welcome to the @graphnote-io repo
+- 👍 Interested in productivity & task management ...
 
 <!---
 graphnote-io/graphnote-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
