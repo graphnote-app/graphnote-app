@@ -1,4 +1,4 @@
-- 😀: Welcome to the @graphnote-io repo
+- 😀 Welcome to the Graphnote repo
 - 👍 Interested in productivity & task management ...
 
 <!---
