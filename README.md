@@ -4,9 +4,9 @@
 
 https://graphnote.io
 
-Reach me (founder) @
-graphnote.io@gmail.com
-https://github.com/hpennington
+Reach me (founder) @ graphnote.io@gmail.com
+
+github == https://github.com/hpennington
 
 ### Roadmap
 
