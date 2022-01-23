@@ -1,4 +1,4 @@
-Augment your memory with Graphnote: A graph based note taking / todo application with first-class Apple Pencil support.
+"Augment your memory" with Graphnote: A graph based note taking / todo application with first-class Apple Pencil support.
 
 - 😀 Welcome to the Graphnote repo
 - 👍 Interested in productivity & task management ...
