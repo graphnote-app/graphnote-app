@@ -12,8 +12,8 @@ github == https://github.com/hpennington
 
 ### Roadmap
 
-- [ ] Workspaces
-- [ ] Files
+- [x] Workspaces
+- [x] Documents
 - [ ] Blocks
   - [ ] Text
   - [ ] Image
