@@ -4,7 +4,7 @@ Graphnote: A graph based note taking & todo application with first-class Apple P
 - 👍 Interested in productivity & task management ...
 - 👌 Open source todo & note taking application ...
 
-https://graphnote.io
+https://graphnote.app
 
 Reach me (founder) @ graphnote.io@gmail.com
 
